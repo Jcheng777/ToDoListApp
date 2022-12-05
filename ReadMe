@@ -1,0 +1,2 @@
+
+I implemented the first challenge. I created an alert when one or other text field was not filled in or both of the text fields were not filled in. I also attempted to create an alert when there is an invalid due date (i.e. there are characters other than numbers and slashes). However, I ran out of time and couldn't implement it. 

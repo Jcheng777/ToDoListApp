@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "84F30631-7419-4F0A-BEFA-22A48055FB27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "jc2755_p2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7 - 35dd0d01a244d825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "jc2755_p2.ViewController.reminderList.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "jc2755_p2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessecheng/IOS-AppDev/jc2755_p2/jc2755_p2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7 - 638e8ba8c4994031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "jc2755_p2.ViewController.reminderList.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "jc2755_p2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessecheng/IOS-AppDev/jc2755_p2/jc2755_p2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7 - 9aee3143a6ecb226"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "jc2755_p2.ViewController.reminderList.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "jc2755_p2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessecheng/IOS-AppDev/jc2755_p2/jc2755_p2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7 - ed6825da71af6f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "jc2755_p2.ViewController.reminderList.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "jc2755_p2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessecheng/IOS-AppDev/jc2755_p2/jc2755_p2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7 - 1aae87e229750090"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "jc2755_p2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; jc2755_p2.ViewController"
+                  moduleName = "jc2755_p2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessecheng/IOS-AppDev/jc2755_p2/jc2755_p2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "8AAD51C2-4AD5-4343-8900-AE696DEBD5A7 - 9e8b9c1d27fd75dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "jc2755_p2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;jc2755_p2.ViewController&gt;"
+                  moduleName = "jc2755_p2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessecheng/IOS-AppDev/jc2755_p2/jc2755_p2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
