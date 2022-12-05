@@ -1,2 +1,6 @@
+ToDoListApp - Project 2
 
-I implemented the first challenge. I created an alert when one or other text field was not filled in or both of the text fields were not filled in. I also attempted to create an alert when there is an invalid due date (i.e. there are characters other than numbers and slashes). However, I ran out of time and couldn't implement it. 
+I created a simple to do list app where you can add the date and reminder to a list of to dos. 
+
+
+Here's a screen shot: 
